@@ -1,0 +1,2 @@
+# MyStickers
+Xcode Sticker project
